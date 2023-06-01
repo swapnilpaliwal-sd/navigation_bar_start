@@ -4,6 +4,8 @@ Creating an app where CuperTinoTabBar controls PageView. This approach provides 
 navigation experience for users, allowing them to swipe between different views (or not;
 learn how to block users from swiping as well).
 
+Follow the tutorial on YouTube: https://youtu.be/Wh7VMCeqj3Q
+
 ## Final result
 
 ![Result_1_](https://github.com/swapnilpaliwal-sd/navigation_bar_start/assets/78632212/c1d34b9f-1eab-4c4c-90ef-4d753cc164bd)
