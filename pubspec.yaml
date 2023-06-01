@@ -1,0 +1,40 @@
+name: navigation_bar_start
+description: Creating an app where CuperTinoTabBar controls PageView. This approach provides a
+  seamless navigation experience for users, allowing them to swipe between different views (or not;
+  learn how to block users from swiping as well).
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+     - icons/home.svg
+     - icons/home_outline.svg
+     - icons/cards_heart.svg
+     - icons/cards_heart_outline.svg
+     - icons/search.svg
+     - icons/music_library.svg
+     - icons/music_library_outline.svg
+  fonts:
+    - family: Montserrat
+      fonts:
+        - asset: fonts/Montserrat-Regular.ttf
+        - asset: fonts/Montserrat-Medium.ttf
+        - asset: fonts/Montserrat-Bold.ttf
+        - asset: fonts/Montserrat-SemiBold.ttf
