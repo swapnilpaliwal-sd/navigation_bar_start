@@ -36,12 +36,14 @@ The focus is on the following key concepts:
 
 **1. Page Navigation:** Learn how to navigate seamlessly across different pages within the app,
 providing users with a smooth and intuitive user experience.
-**2. Navigation Bar:** Control the navigation using a CupertinoTabBar, delegating page transitions
+**2. Dependency Injection:** Inject the dependencies to execute your code and allow decoupling and
+flexibility. Write code like a seasoned developer.
+**3. Navigation Bar:** Control the navigation using a CupertinoTabBar, delegating page transitions
 and control to an external widget, ensuring efficient and user-friendly navigation.
-**2. Custom Fonts and Typography:** Utilizing the versatile 'Montserrat' font family, the pages
+**4. Custom Fonts and Typography:** Utilizing the versatile 'Montserrat' font family, the pages
 incorporate different weights, ranging from light to extra-bold.
 This choice creates visually appealing typography.
-**3. Padding:** Implement padding for the bottom navigation bar to achieve a refined and
+**5. Padding:** Implement padding for the bottom navigation bar to achieve a refined and
 aesthetically pleasing layout, ensuring optimal spacing and visual balance throughout the app.
 
 ## Assets
