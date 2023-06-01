@@ -19,6 +19,9 @@ Learn how to create stunning navigation for an app using custom icons and fonts 
 beautifully across different pages in style. This project will help you take your flutter game
 to the next level.
 
+The project helps you understand a vital concept of dependency injection, which is usually missed
+by developers and it leads to code duplication, difficulty in testing, limited usability, etc.
+
 This project serves as an excellent starting point for controlling PageView with CupertinoTabBar,
 complete with custom icons.
 
