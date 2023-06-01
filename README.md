@@ -6,7 +6,7 @@ learn how to block users from swiping as well).
 
 ## Final result
 
-![Result_1_](https://github.com/swapnilpaliwal-sd/navigation_bar_start/assets/78632212/c1d34b9f-1eab-4c4c-90ef-4d753cc164bd) ![Result_2_](https://github.com/swapnilpaliwal-sd/navigation_bar_start/assets/78632212/1863b21b-1414-4482-be8d-fbe8640eb7fa)
+![Result_1_](https://github.com/swapnilpaliwal-sd/navigation_bar_start/assets/78632212/c1d34b9f-1eab-4c4c-90ef-4d753cc164bd)
 
 ## Setup
 
